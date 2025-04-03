@@ -11,5 +11,5 @@ Bu program java ile yazildi. Konsol uzerinden film ve musteri eklenip bunlara bi
 
 ## Calistirma
 
-Java yüklü olmasi lazim. SinemaKayitSistemi.java dosyasini calistir, secenekleri konsoldan yapabiliyosun zaten.
+Java yüklü olmasi lazim. app.java dosyasini calistir, secenekleri konsoldan yapabiliyosun zaten.
 
