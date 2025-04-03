@@ -13,3 +13,5 @@ Bu program java ile yazildi. Konsol uzerinden film ve musteri eklenip bunlara bi
 
 Java yüklü olmasi lazim. app.java dosyasini calistir, secenekleri konsoldan yapabiliyosun zaten.
 
+## Creator
+Emir Kibar
